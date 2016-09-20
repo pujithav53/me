@@ -1,0 +1,7 @@
+linux commands:
+
+1.To create a new file:
+touch directoryname filename
+
+2.To create directory and file simultaneously
+mkdir directoryname && touch directoryname filename
